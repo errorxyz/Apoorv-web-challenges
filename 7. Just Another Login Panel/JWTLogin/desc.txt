@@ -1,0 +1,12 @@
+Just Another Login Panel
+
+Jason has decided to host a login portal just after learning about a new technology, but he has made a blunder. Help him realise his mistake.
+link: https://jwtlog-yymsncndoq-uc.a.run.app/
+
+You are provided with the source code of the application.
+
+300pts(hard)
+ApoorvCTF{dOn7_exp053_yOur_K3yS}
+no hints
+web exploitation
+#web

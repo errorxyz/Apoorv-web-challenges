@@ -1,0 +1,8 @@
+Our developer has made an online Linux shell with only basic commands - see if you can break it!
+
+100pts(easy)
+ApoorvCTF{c0mMAnd_INjEc7iON_f7w}
+hint cost: 50pts
+hint: the websites seems to be validating user input only on the client side. See if you can bypass it.
+web exploiation
+#web #commondinjection

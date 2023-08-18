@@ -1,0 +1,8 @@
+The sneaky librarian has hidden the flag inside this library. You have been appointed by the IIITK Bureau of Investigation to find it ASAP!
+
+200pts(med)
+apoorvCTF{1dor5_ar3_ea5y_p3Asy}
+hint cost: 50pts
+hint: try to access books beyond what is shown.
+web exploitation
+#web #IDOR

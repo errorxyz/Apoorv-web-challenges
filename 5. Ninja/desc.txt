@@ -1,0 +1,9 @@
+Enter your cool ninja names to be greeted in ninja lingo.
+
+You are provied with the source files to analyze.
+200pts(med)
+ApoorvCTF{you_ar3_a_rEA11y_go0D_nINj4}
+hint cost: 100pts
+hint: jinja.
+web exploitation
+#web #templateinjection

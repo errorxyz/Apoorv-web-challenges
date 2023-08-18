@@ -1,0 +1,6 @@
+Challenge name suggests the use of the jinja framework.
+We see that user input is reflected on the webpage.
+Sending {{ 7 * 7 }} (which is a classic payload to test for server side template injection) reflects 49 suggesting that it is vulnerable to SSTI
+Now, looking at the source code, it seems like we need to access configuration items to get that flag.
+After reading the docs for jinja or using some Google-Fu we find that we can access configuration items using {{ config.items() }} as the input.
+

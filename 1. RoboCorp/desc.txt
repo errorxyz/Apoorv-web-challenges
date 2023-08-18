@@ -1,0 +1,7 @@
+RoboCorp's been acting fishy lately. Find out whats up with them!
+
+100pts(easy)
+apoorvCTF{hiDdEN_iN_pl4in_s1gHt}
+hint: the title of the website is a big hint - try to find common web file names
+Web exploitation
+#web #misconfiguration

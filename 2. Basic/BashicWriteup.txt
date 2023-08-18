@@ -1,0 +1,3 @@
+The website takes user input and executes it on the server and returns its output.
+The commands allowed to run seem to be limited and whitelised on the client side.
+We can try intercepting one of the requests using burp and change the value of command to "cat flag.txt" and access the flag.

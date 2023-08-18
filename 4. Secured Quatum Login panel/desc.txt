@@ -1,0 +1,9 @@
+Our developer thinks that he has built the most secure login panel using quantum entaglement. Humble him!
+link: https://secquantss-yymsncndoq-uc.a.run.app/
+
+200pts(med)
+ApoorvCTF{dOub1e_quo7es_5uCk}
+hint cost: 100pts
+hint: try to find the backend technology and know how to break it!
+web exploitation
+#web #injection
